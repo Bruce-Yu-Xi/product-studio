@@ -1,7 +1,8 @@
 # product-studio
-individual weekly report
-User Story:
+individual weekly report:week2
+
 ![alt text](https://github.com/Bruce-Yu-Xi/product-studio/blob/master/w2k.jpg "Product Sketches")
+User Story:
 Date#1:
 
 Anthony, Bosh and Chris are friends and they all downloaded the “App”. Then they signed up with Gmail address, Facebook account, phone number, etc. severally. After the identifying, they all got all the free memberships of grocery stores included by “App”: Grocery-store#1, #2, #3... #n.
